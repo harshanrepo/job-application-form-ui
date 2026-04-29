@@ -6,7 +6,7 @@ A modern job application form built using HTML and CSS. This project focuses on 
 
 🚀 Live Demo
 
-👉 
+👉 https://harshanrepo.github.io/job-application-form-ui/
 
 ---
 
